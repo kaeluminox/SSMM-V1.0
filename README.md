@@ -112,13 +112,13 @@ The following were verified on the prototype:
 The photos below demonstrate how the dashboard responds in each moisture category (DRY, HUMID, WET), including Milo's expression and the status message.
 
 ### DRY (ADC 875)
-<img src="Documentation/images/test_dry.jpeg" alt="Dashboard showing DRY at ADC 875" width="500">
+<img src="test_dry.jpeg" alt="Dashboard showing DRY at ADC 875" width="500">
 
 ### HUMID (ADC 460)
-<img src="Documentation/images/test_humid.jpeg" alt="Dashboard showing HUMID at ADC 460" width="500">
+<img src="test_humid.jpeg" alt="Dashboard showing HUMID at ADC 460" width="500">
 
 ### WET (ADC 322)
-<img src="Documentation/images/test_wet.jpeg" alt="Dashboard showing WET at ADC 322" width="500">
+<img src="test_wet.jpeg" alt="Dashboard showing WET at ADC 322" width="500">
 
 These are demonstration readings of the integrated hardware-software system. They are not a formal accuracy or calibration study, and they do not measure the actual water content of the soil.
 
